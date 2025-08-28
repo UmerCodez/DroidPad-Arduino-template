@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "author": "Umer Farooq",
+  "editor": "wokwi",
+  "parts": [ { "type": "wokwi-arduino-uno", "id": "uno", "top": 0.6, "left": -0.6, "attrs": {} } ],
+  "connections": [],
+  "dependencies": {},
+  "serialMonitor": {
+  "display": "always",
+  "newline": "lf",
+  "convertEol": false
+}
+}
